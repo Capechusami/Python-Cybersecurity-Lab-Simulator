@@ -1,0 +1,103 @@
+This is a sensitive document with passwords: admin123
+
+
+[INFECTED BY TROJAN] Timestamp: 2025-12-14 15:56:57.000571
+[WARNING] This file has been compromised by educational trojan
+
+
+[INFECTED BY TROJAN] Timestamp: 2025-12-14 15:59:12.124111
+[WARNING] This file has been compromised by educational trojan
+
+
+[INFECTED BY TROJAN] Timestamp: 2025-12-14 16:16:26.780225
+[WARNING] This file has been compromised by educational trojan
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 16:29:54.772591
+Process ID: 88766
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:27:23.546524
+Process ID: 6695
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:30:16.544631
+Process ID: 8179
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:30:53.244905
+Process ID: 8488
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:37:14.586576
+Process ID: 11973
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:41:32.095665
+Process ID: 14392
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:42:28.538487
+Process ID: 14925
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:44:38.763814
+Process ID: 16125
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:47:13.878945
+Process ID: 17528
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:47:50.018640
+Process ID: 17872
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:48:30.807305
+Process ID: 18262
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:49:19.982993
+Process ID: 18721
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:49:52.186234
+Process ID: 19035
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-14 17:50:19.182690
+Process ID: 19308
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge
+
+[INFECTED BY TROJAN] 
+Timestamp: 2025-12-27 14:07:46.597622
+Process ID: 15904
+Warning: This file has been compromised by educational trojan
+This demonstrates how trojans can modify files without user knowledge

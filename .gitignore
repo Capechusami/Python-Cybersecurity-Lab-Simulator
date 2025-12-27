@@ -1,0 +1,20 @@
+# Python cache and OS files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.tmp
+*.log
+.DS_Store
+
+# Backups
+*.backup
+
+# Lab-generated bulky artifacts
+quarantine/
+scan_reports/
+stolen_data/
+
+# VS Code workspace settings (optional)
+.vscode/
